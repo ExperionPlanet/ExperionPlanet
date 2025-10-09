@@ -1,5 +1,7 @@
-##🪐 Experion Planet 🪐
-Heyya! I'm @ExperionPlanet aka Whitney
+🪐 Experion Planet 🪐
+
+Hey! I'm @ExperionPlanet aka Whitney
+
 - Currently still making Minecraft Fabric Mod while learning Java
 
 <!--
