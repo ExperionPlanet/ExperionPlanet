@@ -2,7 +2,9 @@
 
 Hey! I'm @ExperionPlanet aka Whitney
 
-- Currently still making Minecraft Fabric Mod while learning Java
+-☕ Currently still making Minecraft Fabric Mod while learning Java
+-🎓 Almost mastered on Roblox Studio Lua Scripting
+-🎯 Planning to recreate my Childhood MCreator mods
 
 <!--
 **ExperionPlanet/ExperionPlanet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
