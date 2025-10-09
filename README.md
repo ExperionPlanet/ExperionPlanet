@@ -1,6 +1,6 @@
-#🪐 Experion Planet 🪐
+##🪐 Experion Planet 🪐
 Heyya! I'm @ExperionPlanet aka Whitney
-Currently still making Minecraft Fabric Mod while learning Java
+- Currently still making Minecraft Fabric Mod while learning Java
 
 <!--
 **ExperionPlanet/ExperionPlanet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
