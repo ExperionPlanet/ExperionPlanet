@@ -6,4 +6,4 @@ Hey! I'm @ExperionPlanet aka Whitney
 
 - 🎓 Almost mastered on Roblox Studio Lua Scripting
 
-- 🎯 Planning to recreate my Childhood MCreator mods
+- 🎯 Planning to recreate my Childhood MCreator mods (Currently doing one)
